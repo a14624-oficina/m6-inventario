@@ -16,7 +16,7 @@ Deste trabalho consitui em criar uma aplicação web para a gestão de dados sob
 A aplicação permite consultar informações técnicas dos computadores e o software instalado em cada equipamento.
 
 <h3> Estrutura Geral do Projeto</h3>
-Deste projeto organizem o projeto em uma pasta chamada m6-inventario contendo como  ficheiros principais index.php, ligação à base de dados,detalhe.php que vê os componemtes do computadore e config.php que abre o link do projeto do infinityfree.
+Deste projeto organizem o projeto em uma pasta chamada m6-inventario contendo como  ficheiros principais index.php, ligação à base de dados,detalhe.php que vê os componentes dos computadores e config.php que abre o link do projeto do infinityfree.
 
 <h3>Funcionalidades Desenvolvidas</h3>
  Ligação à base de dados com PHP (PDO)
